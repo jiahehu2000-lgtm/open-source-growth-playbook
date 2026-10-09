@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">让读者看懂、尝试并收藏你的项目</title>
+  <desc id="desc">真实问题到输出演示、最小上手、相关传播，最后观察流量和自愿点星。十大方向、十一篇帖文、一个可复用技能。</desc>
+  <rect width="1200" height="420" rx="24" fill="#f4f7fb"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+    <text x="48" y="59" font-size="16" fill="#536878" letter-spacing="2">OPEN SOURCE · RESEARCH · OUTREACH</text>
+    <text x="48" y="109" font-size="35" font-weight="700" fill="#172c40">让读者看懂、尝试并收藏你的项目</text>
+    <text x="48" y="146" font-size="19" fill="#526479">10 个关注方向 · 11 篇技术帖拆解 · 1 个可复用 Skill</text>
+    <g transform="translate(48 193)">
+      <rect width="244" height="121" rx="14" fill="#fff" stroke="#d5dfeb"/>
+      <text x="21" y="36" font-size="14" fill="#1b8c78">01 / 有用</text>
+      <text x="21" y="70" font-size="24" font-weight="700" fill="#172c40">解决具体问题</text>
+      <text x="21" y="99" font-size="16" fill="#526479">明确读者与真实结果</text>
+    </g>
+    <path d="M308 251h27m-8-8 8 8-8 8" fill="none" stroke="#879bad" stroke-width="2"/>
+    <g transform="translate(349 193)">
+      <rect width="244" height="121" rx="14" fill="#fff" stroke="#d5dfeb"/>
+      <text x="21" y="36" font-size="14" fill="#1b8c78">02 / 可见</text>
+      <text x="21" y="70" font-size="24" font-weight="700" fill="#172c40">演示与最短上手</text>
+      <text x="21" y="99" font-size="16" fill="#526479">输出、步骤、依赖与限制</text>
+    </g>
+    <path d="M609 251h27m-8-8 8 8-8 8" fill="none" stroke="#879bad" stroke-width="2"/>
+    <g transform="translate(650 193)">
+      <rect width="244" height="121" rx="14" fill="#fff" stroke="#d5dfeb"/>
+      <text x="21" y="36" font-size="14" fill="#1b8c78">03 / 相关</text>
+      <text x="21" y="70" font-size="24" font-weight="700" fill="#172c40">贴近读者的介绍</text>
+      <text x="21" y="99" font-size="16" fill="#526479">真实材料与反馈入口</text>
+    </g>
+    <g transform="translate(916 193)">
+      <rect width="236" height="121" rx="14" fill="#172c40"/>
+      <text x="20" y="36" font-size="14" fill="#91decb">04 / 观察</text>
+      <text x="20" y="70" font-size="24" font-weight="700" fill="#fff">访问 · 试用 · Star</text>
+      <text x="20" y="99" font-size="16" fill="#d1dee9">记录变化，检查实际反馈</text>
+    </g>
+    <text x="48" y="374" font-size="16" fill="#526479">2026-10-09 采样版  /  编辑归纳，非官方排名  /  不承诺点星增长</text>
+  </g>
+</svg>

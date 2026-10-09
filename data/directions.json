@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "selection_date": "2026-10-09",
+  "selection_type": "editorial_categories_from_captured_github_trending",
+  "directions": [
+    {"id": 1, "title": "AI 编码与代码审查", "repository": "alibaba/open-code-review", "period": "monthly", "need": "读者关心代码究竟哪里有问题，能否减少重复审查。", "small_project": "科研 Python 检查助手：检查单位、随机种子和训练测试分离，并输出具体行号。", "demo": "一份含已知问题的小脚本、检查结果、人工核对说明，以及修正前后差异。", "content": "用一个实际漏检问题进入介绍，再解释规则检查与模型判断各负责什么。", "limit": "检测准确性需要标注样本验证；不能把‘AI审查’写成自动保证代码正确。"},
+    {"id": 2, "title": "专业 Agent Skills 与插件", "repository": "mattpocock/skills", "period": "weekly", "need": "读者希望让已有 AI 助手可靠完成一项具体工作。", "small_project": "Origin 绘图、论文表格整理、实验日志检查等边界清楚的专用 Skill。", "demo": "安装位置、一次真实调用、输入文件、可编辑输出，以及支持软件版本。", "content": "让读者先看到最终文件，再用最短步骤得到同类结果。", "limit": "Skill、依赖软件和外部服务要分别说明；有 Skill 不等于包含商业软件许可证。"},
+    {"id": 3, "title": "多 Agent 协作与任务编排", "repository": "paperclipai/paperclip", "period": "monthly", "need": "读者需要把复杂工作分给不同角色，并知道任务进度和失败位置。", "small_project": "一个‘查资料—写代码—独立验证’三角色工具，保留输入、输出与交接记录。", "demo": "同一个小任务的分工过程、最终交付和一次失败恢复；写明模型调用与成本条件。", "content": "展示角色之间如何交接，比画一张复杂架构图更容易理解。", "limit": "角色多不自动等于效果更好；比较时应保持任务、模型和预算条件一致。"},
+    {"id": 4, "title": "Agent 记忆与上下文管理", "repository": "vectorize-io/hindsight", "period": "monthly", "need": "读者不想反复解释项目背景，也需要知道回答引用了哪条旧记录。", "small_project": "本地实验记录检索工具：带日期、来源、过期提示和可纠正的项目决定。", "demo": "跨两次会话找回一个真实决定，并展示来源和人工修订。", "content": "用‘上次说过什么、这次如何找回’的对照，说明保存、检索和更新的区别。", "limit": "存储更多不保证检索正确；旧记录不能当作当前事实。"},
+    {"id": 5, "title": "私有文档 RAG 与知识库", "repository": "Tencent/WeKnora", "period": "monthly", "need": "读者要从自己的文档得到可以追溯出处的答案。", "small_project": "面向一个细分学科的公开文献问答示例包，保留页码、版本和无法回答的例子。", "demo": "一份允许再分发的文档、一个问题、检索段落与答案出处。", "content": "先展示‘答案来自哪一页’，再解释索引和检索方法。", "limit": "检索命中文档不等于答案正确；文档许可、外部模型调用和数据去向要说明。"},
+    {"id": 6, "title": "桌面自动化与受限运行环境", "repository": "trycua/cua", "period": "monthly", "need": "读者想让 AI 操作已有软件，并明确能访问哪些文件和应用。", "small_project": "固定科研软件的批量导出与检查工具，生成操作日志和失败提示。", "demo": "从输入文件到导出文件的连续过程，以及操作范围和失败时的处理。", "content": "展示一个完整小任务，用实际步骤说明价值和权限范围。", "limit": "桌面状态、版本和文件锁会影响自动化；不能只放一次成功截图。"},
+    {"id": 7, "title": "可编辑图形与视频工作流", "repository": "heygen-com/hyperframes", "period": "monthly", "need": "读者希望快速得到能继续修改的图形、动画或视频。", "small_project": "实验流程 SVG、数据动画、Origin 到可编辑 PPT 的工作流。", "demo": "最终画面、源文件，以及改变一个参数后重新导出的过程。", "content": "把真实效果放在首屏，突出输出格式和编辑方式。", "limit": "视觉好看不保证科学准确；区分示意图、实测数据和仿真结果。"},
+    {"id": 8, "title": "本地语音与音视频处理", "repository": "debpalash/VoiceStudio", "period": "monthly", "need": "读者想在本机完成转写、字幕、配音或术语修正。", "small_project": "讲座录音转字幕工具，附专业术语词表和时间戳核对入口。", "demo": "经授权的短音频、输出字幕、运行环境和已知转写错误。", "content": "展示一个完整片段和可下载输出，而非只列支持语言数量。", "limit": "模型、硬件和下载大小决定使用门槛；语音使用应有授权。"},
+    {"id": 9, "title": "低门槛本地模型推理", "repository": "JustVugg/colibri", "period": "monthly", "need": "读者想知道自己的设备能运行什么，以及需要多长时间和多少资源。", "small_project": "本地模型环境诊断工具，输出明确版本与实际测量的运行报告。", "demo": "设备规格、模型版本、加载耗时、内存占用和实际输入输出。", "content": "围绕‘我的电脑能不能用’展开，把可复现环境放在数字旁。", "limit": "能加载模型与可接受速度是两回事；项目作者的性能承诺需独立测量。"},
+    {"id": 10, "title": "实时数据地图与空间可视化", "repository": "bilawalsidhu/gods-eye-view", "period": "monthly", "need": "读者想把复杂位置数据变成可交互、可核对的画面。", "small_project": "公开天气、交通或实验采样点位地图，标注来源、时间和缺失值。", "demo": "一个可操作地图、一次时间筛选和一个点位的原始来源。", "content": "先让读者探索，再解释数据怎么来、多久更新、哪里不完整。", "limit": "‘实时’应有更新间隔和数据延迟定义；视觉效果不能掩盖数据缺失。"}
+  ]
+}

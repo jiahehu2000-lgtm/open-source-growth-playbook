@@ -1,0 +1,516 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-10-09",
+  "timezone": "Asia/Shanghai",
+  "note": "Public GitHub Trending page snapshots; page order and period star growth are observed signals, not an official ranking of topics. Cumulative stars and period stars are separate fields; no longitudinal history is inferred.",
+  "snapshots": [
+    {
+      "period": "daily",
+      "source_url": "https://github.com/trending?since=daily",
+      "fetched_at_utc": "2026-10-09T09:41:40Z",
+      "captured_article_count": 9,
+      "repositories": [
+        {
+          "rank_on_captured_page": 1,
+          "repository": "boykopovar/AnyPS5",
+          "repository_url": "https://github.com/boykopovar/AnyPS5",
+          "cumulative_stars": 18000,
+          "period_stars": 4669,
+          "period_label": "today",
+          "period": "daily",
+          "source_url": "https://github.com/trending?since=daily",
+          "fetched_at_utc": "2026-10-09T09:41:40Z"
+        },
+        {
+          "rank_on_captured_page": 2,
+          "repository": "cathrynlavery/diagram-design",
+          "repository_url": "https://github.com/cathrynlavery/diagram-design",
+          "cumulative_stars": 47141,
+          "period_stars": 1160,
+          "period_label": "today",
+          "period": "daily",
+          "source_url": "https://github.com/trending?since=daily",
+          "fetched_at_utc": "2026-10-09T09:41:40Z"
+        },
+        {
+          "rank_on_captured_page": 3,
+          "repository": "morluto/rea",
+          "repository_url": "https://github.com/morluto/rea",
+          "cumulative_stars": 32965,
+          "period_stars": 7738,
+          "period_label": "today",
+          "period": "daily",
+          "source_url": "https://github.com/trending?since=daily",
+          "fetched_at_utc": "2026-10-09T09:41:40Z"
+        },
+        {
+          "rank_on_captured_page": 4,
+          "repository": "mattpocock/skills",
+          "repository_url": "https://github.com/mattpocock/skills",
+          "cumulative_stars": 281796,
+          "period_stars": 1774,
+          "period_label": "today",
+          "period": "daily",
+          "source_url": "https://github.com/trending?since=daily",
+          "fetched_at_utc": "2026-10-09T09:41:40Z"
+        },
+        {
+          "rank_on_captured_page": 5,
+          "repository": "thedotmack/claude-mem",
+          "repository_url": "https://github.com/thedotmack/claude-mem",
+          "cumulative_stars": 98802,
+          "period_stars": 670,
+          "period_label": "today",
+          "period": "daily",
+          "source_url": "https://github.com/trending?since=daily",
+          "fetched_at_utc": "2026-10-09T09:41:40Z"
+        },
+        {
+          "rank_on_captured_page": 6,
+          "repository": "EpicGames/raddebugger",
+          "repository_url": "https://github.com/EpicGames/raddebugger",
+          "cumulative_stars": 8201,
+          "period_stars": 279,
+          "period_label": "today",
+          "period": "daily",
+          "source_url": "https://github.com/trending?since=daily",
+          "fetched_at_utc": "2026-10-09T09:41:40Z"
+        },
+        {
+          "rank_on_captured_page": 7,
+          "repository": "anthropics/knowledge-work-plugins",
+          "repository_url": "https://github.com/anthropics/knowledge-work-plugins",
+          "cumulative_stars": 27918,
+          "period_stars": 392,
+          "period_label": "today",
+          "period": "daily",
+          "source_url": "https://github.com/trending?since=daily",
+          "fetched_at_utc": "2026-10-09T09:41:40Z"
+        },
+        {
+          "rank_on_captured_page": 8,
+          "repository": "storytold/artcraft",
+          "repository_url": "https://github.com/storytold/artcraft",
+          "cumulative_stars": 9379,
+          "period_stars": 2103,
+          "period_label": "today",
+          "period": "daily",
+          "source_url": "https://github.com/trending?since=daily",
+          "fetched_at_utc": "2026-10-09T09:41:40Z"
+        },
+        {
+          "rank_on_captured_page": 9,
+          "repository": "liquidslr/system-design-notes",
+          "repository_url": "https://github.com/liquidslr/system-design-notes",
+          "cumulative_stars": 25116,
+          "period_stars": 393,
+          "period_label": "today",
+          "period": "daily",
+          "source_url": "https://github.com/trending?since=daily",
+          "fetched_at_utc": "2026-10-09T09:41:40Z"
+        }
+      ]
+    },
+    {
+      "period": "weekly",
+      "source_url": "https://github.com/trending?since=weekly",
+      "fetched_at_utc": "2026-10-09T09:41:42Z",
+      "captured_article_count": 11,
+      "repositories": [
+        {
+          "rank_on_captured_page": 1,
+          "repository": "boykopovar/AnyPS5",
+          "repository_url": "https://github.com/boykopovar/AnyPS5",
+          "cumulative_stars": 18000,
+          "period_stars": 10243,
+          "period_label": "this week",
+          "period": "weekly",
+          "source_url": "https://github.com/trending?since=weekly",
+          "fetched_at_utc": "2026-10-09T09:41:42Z"
+        },
+        {
+          "rank_on_captured_page": 2,
+          "repository": "mvschwarz/openrig",
+          "repository_url": "https://github.com/mvschwarz/openrig",
+          "cumulative_stars": 6272,
+          "period_stars": 2693,
+          "period_label": "this week",
+          "period": "weekly",
+          "source_url": "https://github.com/trending?since=weekly",
+          "fetched_at_utc": "2026-10-09T09:41:42Z"
+        },
+        {
+          "rank_on_captured_page": 3,
+          "repository": "heygen-com/hyperframes",
+          "repository_url": "https://github.com/heygen-com/hyperframes",
+          "cumulative_stars": 59439,
+          "period_stars": 3996,
+          "period_label": "this week",
+          "period": "weekly",
+          "source_url": "https://github.com/trending?since=weekly",
+          "fetched_at_utc": "2026-10-09T09:41:42Z"
+        },
+        {
+          "rank_on_captured_page": 4,
+          "repository": "EpicGames/raddebugger",
+          "repository_url": "https://github.com/EpicGames/raddebugger",
+          "cumulative_stars": 8201,
+          "period_stars": 448,
+          "period_label": "this week",
+          "period": "weekly",
+          "source_url": "https://github.com/trending?since=weekly",
+          "fetched_at_utc": "2026-10-09T09:41:42Z"
+        },
+        {
+          "rank_on_captured_page": 5,
+          "repository": "cursor/plugins",
+          "repository_url": "https://github.com/cursor/plugins",
+          "cumulative_stars": 10474,
+          "period_stars": 1109,
+          "period_label": "this week",
+          "period": "weekly",
+          "source_url": "https://github.com/trending?since=weekly",
+          "fetched_at_utc": "2026-10-09T09:41:42Z"
+        },
+        {
+          "rank_on_captured_page": 6,
+          "repository": "thedotmack/claude-mem",
+          "repository_url": "https://github.com/thedotmack/claude-mem",
+          "cumulative_stars": 98802,
+          "period_stars": 3153,
+          "period_label": "this week",
+          "period": "weekly",
+          "source_url": "https://github.com/trending?since=weekly",
+          "fetched_at_utc": "2026-10-09T09:41:42Z"
+        },
+        {
+          "rank_on_captured_page": 7,
+          "repository": "mattpocock/skills",
+          "repository_url": "https://github.com/mattpocock/skills",
+          "cumulative_stars": 281796,
+          "period_stars": 7448,
+          "period_label": "this week",
+          "period": "weekly",
+          "source_url": "https://github.com/trending?since=weekly",
+          "fetched_at_utc": "2026-10-09T09:41:42Z"
+        },
+        {
+          "rank_on_captured_page": 8,
+          "repository": "Panniantong/Agent-Reach",
+          "repository_url": "https://github.com/Panniantong/Agent-Reach",
+          "cumulative_stars": 94488,
+          "period_stars": 6987,
+          "period_label": "this week",
+          "period": "weekly",
+          "source_url": "https://github.com/trending?since=weekly",
+          "fetched_at_utc": "2026-10-09T09:41:42Z"
+        },
+        {
+          "rank_on_captured_page": 9,
+          "repository": "earthtojake/text-to-cad",
+          "repository_url": "https://github.com/earthtojake/text-to-cad",
+          "cumulative_stars": 18586,
+          "period_stars": 1898,
+          "period_label": "this week",
+          "period": "weekly",
+          "source_url": "https://github.com/trending?since=weekly",
+          "fetched_at_utc": "2026-10-09T09:41:42Z"
+        },
+        {
+          "rank_on_captured_page": 10,
+          "repository": "DuarteSantos8/openGym",
+          "repository_url": "https://github.com/DuarteSantos8/openGym",
+          "cumulative_stars": 8288,
+          "period_stars": 6086,
+          "period_label": "this week",
+          "period": "weekly",
+          "source_url": "https://github.com/trending?since=weekly",
+          "fetched_at_utc": "2026-10-09T09:41:42Z"
+        },
+        {
+          "rank_on_captured_page": 11,
+          "repository": "pablostanley/yoinks",
+          "repository_url": "https://github.com/pablostanley/yoinks",
+          "cumulative_stars": 5551,
+          "period_stars": 2706,
+          "period_label": "this week",
+          "period": "weekly",
+          "source_url": "https://github.com/trending?since=weekly",
+          "fetched_at_utc": "2026-10-09T09:41:42Z"
+        }
+      ]
+    },
+    {
+      "period": "monthly",
+      "source_url": "https://github.com/trending?since=monthly",
+      "fetched_at_utc": "2026-10-09T09:41:44Z",
+      "captured_article_count": 24,
+      "repositories": [
+        {
+          "rank_on_captured_page": 1,
+          "repository": "alibaba/open-code-review",
+          "repository_url": "https://github.com/alibaba/open-code-review",
+          "cumulative_stars": 44755,
+          "period_stars": 22779,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 2,
+          "repository": "debpalash/VoiceStudio",
+          "repository_url": "https://github.com/debpalash/VoiceStudio",
+          "cumulative_stars": 55652,
+          "period_stars": 34334,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 3,
+          "repository": "bilawalsidhu/gods-eye-view",
+          "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "cumulative_stars": 49376,
+          "period_stars": 30207,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 4,
+          "repository": "anthropics/financial-services",
+          "repository_url": "https://github.com/anthropics/financial-services",
+          "cumulative_stars": 39105,
+          "period_stars": 4400,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 5,
+          "repository": "paperclipai/paperclip",
+          "repository_url": "https://github.com/paperclipai/paperclip",
+          "cumulative_stars": 99005,
+          "period_stars": 18863,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 6,
+          "repository": "affaan-m/ECC",
+          "repository_url": "https://github.com/affaan-m/ECC",
+          "cumulative_stars": 275605,
+          "period_stars": 23115,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 7,
+          "repository": "vectorize-io/hindsight",
+          "repository_url": "https://github.com/vectorize-io/hindsight",
+          "cumulative_stars": 47505,
+          "period_stars": 24260,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 8,
+          "repository": "Tencent/WeKnora",
+          "repository_url": "https://github.com/Tencent/WeKnora",
+          "cumulative_stars": 32764,
+          "period_stars": 11015,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 9,
+          "repository": "anthropics/claude-code",
+          "repository_url": "https://github.com/anthropics/claude-code",
+          "cumulative_stars": 149793,
+          "period_stars": 6111,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 10,
+          "repository": "TencentCloud/Octop",
+          "repository_url": "https://github.com/TencentCloud/Octop",
+          "cumulative_stars": 8137,
+          "period_stars": 6497,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 11,
+          "repository": "agent-substrate/substrate",
+          "repository_url": "https://github.com/agent-substrate/substrate",
+          "cumulative_stars": 4656,
+          "period_stars": 2793,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 12,
+          "repository": "NVIDIA/OpenShell",
+          "repository_url": "https://github.com/NVIDIA/OpenShell",
+          "cumulative_stars": 15537,
+          "period_stars": 6997,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 13,
+          "repository": "mksglu/context-mode",
+          "repository_url": "https://github.com/mksglu/context-mode",
+          "cumulative_stars": 25849,
+          "period_stars": 4606,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 14,
+          "repository": "heygen-com/hyperframes",
+          "repository_url": "https://github.com/heygen-com/hyperframes",
+          "cumulative_stars": 59439,
+          "period_stars": 11862,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 15,
+          "repository": "spotify/portal-ai-plugins",
+          "repository_url": "https://github.com/spotify/portal-ai-plugins",
+          "cumulative_stars": 2469,
+          "period_stars": 1993,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 16,
+          "repository": "JustVugg/colibri",
+          "repository_url": "https://github.com/JustVugg/colibri",
+          "cumulative_stars": 40670,
+          "period_stars": 13653,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 17,
+          "repository": "anthropics/knowledge-work-plugins",
+          "repository_url": "https://github.com/anthropics/knowledge-work-plugins",
+          "cumulative_stars": 27918,
+          "period_stars": 3453,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 18,
+          "repository": "ayghri/i-have-adhd",
+          "repository_url": "https://github.com/ayghri/i-have-adhd",
+          "cumulative_stars": 55954,
+          "period_stars": 27656,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 19,
+          "repository": "trycua/cua",
+          "repository_url": "https://github.com/trycua/cua",
+          "cumulative_stars": 29115,
+          "period_stars": 6777,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 20,
+          "repository": "cursor/plugins",
+          "repository_url": "https://github.com/cursor/plugins",
+          "cumulative_stars": 10474,
+          "period_stars": 3443,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 21,
+          "repository": "tashfeenahmed/freellmapi",
+          "repository_url": "https://github.com/tashfeenahmed/freellmapi",
+          "cumulative_stars": 32321,
+          "period_stars": 7238,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 22,
+          "repository": "DietrichGebert/ponytail",
+          "repository_url": "https://github.com/DietrichGebert/ponytail",
+          "cumulative_stars": 159020,
+          "period_stars": 27284,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 23,
+          "repository": "addyosmani/agent-skills",
+          "repository_url": "https://github.com/addyosmani/agent-skills",
+          "cumulative_stars": 103549,
+          "period_stars": 10948,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        },
+        {
+          "rank_on_captured_page": 24,
+          "repository": "max-sixty/worktrunk",
+          "repository_url": "https://github.com/max-sixty/worktrunk",
+          "cumulative_stars": 9076,
+          "period_stars": 2240,
+          "period_label": "this month",
+          "period": "monthly",
+          "source_url": "https://github.com/trending?since=monthly",
+          "fetched_at_utc": "2026-10-09T09:41:44Z"
+        }
+      ]
+    }
+  ]
+}

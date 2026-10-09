@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub 项目传播与点星优化"
+  short_description: "用真实案例优化开源项目首页、演示和中文推广内容，让读者更容易发现、上手与收藏"
+  default_prompt: "使用 $github-project-outreach 检查这个仓库的展示和上手流程，改进 README，准备相关中文推广材料，并给出可验证的点星增长观察方法。"
